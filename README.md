@@ -1,6 +1,6 @@
-Projeto Integrador - Proposta de Sistema Orientado a Objetos – Segunda Entrega
+#Projeto Integrador - Proposta de Sistema Orientado a Objetos – Segunda Entrega
 
-Protótipos da interface do sistema:
+##Protótipos da interface do sistema:
 
 Cadastro de Pessoa Física:
 <img width="1357" height="841" alt="image" src="https://github.com/user-attachments/assets/e336ad6c-f7a5-49ab-b0cd-4a3721c4c6c9" />
@@ -24,8 +24,6 @@ Cadastro de Fornecedor - Pessoa Jurídica
 <img width="1358" height="815" alt="image" src="https://github.com/user-attachments/assets/14f54d59-5334-43c7-871d-e413ef9b08e2" />
 <img width="1360" height="571" alt="image" src="https://github.com/user-attachments/assets/240a145e-4d99-4dd1-bda7-7fc22b6bfc89" />
 
-
-# Sistema de Gestão Universitária - Projeto Integrador
 
 ## Visão Geral do Projeto
 
@@ -72,7 +70,3 @@ O modelo de classes foi desenvolvido com conceitos de orientação a objetos, ut
 Os protótipos desenvolvidos refletem a modelagem da primeira fase, com interfaces visuais para cada jornada de cadastro.
 
 **Link para os Protótipos: https://www.figma.com/design/EQiNijProiHCUElSsTvH76/Untitled?node-id=0-1&t=m3m83eJNrpicDyto-1
-
-### Organização do Repositório
-
-Todo o material do projeto, incluindo os diagramas e protótipos, está organizado neste repositório do GitHub para facilitar a colaboração e a documentação.
